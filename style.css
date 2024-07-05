@@ -9,7 +9,7 @@ header {
     padding: 10px 200px ;
 }
 .logo{
-    text-decoration: none;
+    text-decoration: bold;
     color: #3a6cf4;
     text-transform: uppercase;
     font-weight: 700;
